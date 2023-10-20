@@ -1,0 +1,14 @@
+title: OmniWA Chat UI
+version: 0.0.1
+description: Adds a 'WhatsApp-Like Web UI' based on https://github.com/jazimabbas/whatsapp-web-ui to Omnitool, providing chat with OmniTool powered recipes in a familiar environment.
+author: Georg Zoeller
+origin: https://github.com/georgzoeller/omni-extension-wa-chat-ui.git
+client:
+  addToWorkbench: true
+  singleton: true
+  winbox:
+    minwidth: 1024
+    width: 1200
+    minheight: 600
+supports:
+  blocks:v2

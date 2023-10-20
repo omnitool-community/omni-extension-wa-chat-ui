@@ -1,0 +1,3 @@
+[submodule "src/whatsapp-web-ui"]
+	path = src/whatsapp-web-ui
+	url = https://github.com/georgzoeller/whatsapp-web-ui-omni.git

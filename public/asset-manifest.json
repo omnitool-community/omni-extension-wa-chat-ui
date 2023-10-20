@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/extensions/omni-extension-wa-chat-ui/static/js/main.9fac866e.js",
+    "static/js/613.34815a4a.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/613.34815a4a.chunk.js",
+    "static/js/927.f39a724b.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/927.f39a724b.chunk.js",
+    "static/js/483.55b211ad.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/483.55b211ad.chunk.js",
+    "static/js/688.730f1762.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/688.730f1762.chunk.js",
+    "static/js/307.5665f1da.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/307.5665f1da.chunk.js",
+    "static/js/806.7ec2a9d8.chunk.js": "/extensions/omni-extension-wa-chat-ui/static/js/806.7ec2a9d8.chunk.js",
+    "index.html": "/extensions/omni-extension-wa-chat-ui/index.html",
+    "main.9fac866e.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/main.9fac866e.js.map",
+    "613.34815a4a.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/613.34815a4a.chunk.js.map",
+    "927.f39a724b.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/927.f39a724b.chunk.js.map",
+    "483.55b211ad.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/483.55b211ad.chunk.js.map",
+    "688.730f1762.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/688.730f1762.chunk.js.map",
+    "307.5665f1da.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/307.5665f1da.chunk.js.map",
+    "806.7ec2a9d8.chunk.js.map": "/extensions/omni-extension-wa-chat-ui/static/js/806.7ec2a9d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9fac866e.js"
+  ]
+}
